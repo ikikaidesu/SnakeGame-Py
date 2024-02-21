@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/rFfWH5r/Snake-Game-Logo.png" alt="Project Logo">
+      <img src="https://i.ibb.co/SJMCQcD/Snake-Game-Logo.png" alt="Project Logo">
 </p>
 
 <p align="center">
